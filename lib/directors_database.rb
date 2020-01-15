@@ -7,3 +7,5 @@ end
 
 define hello
   puts "Hello"
+  hello
+end
